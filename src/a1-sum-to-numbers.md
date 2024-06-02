@@ -16,3 +16,15 @@ End Procedure
 
 Procedure Factorial
     // You Code Here
+
+    Exercise 5
+Question: Write a pseudocode to check if a number is prime.
+
+Solution:
+
+Procedure CheckPrime
+    Input: num (a positive integer)
+    Output: result (prime or not prime)
+    
+    // Your code here
+End Procedure
