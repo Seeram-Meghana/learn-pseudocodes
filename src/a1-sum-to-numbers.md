@@ -28,3 +28,12 @@ Procedure CheckPrime
     
     // Your code here
 End Procedure
+
+# Exercise 6
+## Question: Write a pseudocode to swap two numbers.
+
+## Solution:
+
+Procedure SwapNumbers
+    // Your code here
+End Procedure
