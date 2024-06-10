@@ -8,6 +8,26 @@
 Procedure SumOfTwoNumbers
     // Your Code Here
 End Procedure
+
+
+# Exercise 2
+
+## Question: Write a pseudocode to find the maximum of three numbers.
+
+## Solution:
+
+Procedure MaximumOfThreeNumbers
+    // Your Code here
+End Procedure
+```
+# Exercise 3
+## Question: Write a pseudocode to check if a number is even or odd.
+
+## Solution:
+
+Procedure CheckEvenOrOdd
+    // Your Code Here
+
 ```
 # Exercise 4
 ## Question: Write a pseudocode to calculate the factorial of a number.
@@ -56,6 +76,9 @@ Procedure FibonacciSeries
     Input: limit (upper limit for Fibonacci series)
 
     // Your code here
+
+
+
 End Procedure
 
 # Exercise 9
@@ -67,4 +90,5 @@ Procedure SquareRoot
     Input: num (a positive number)
 
     // Your code here
+
 End Procedure
