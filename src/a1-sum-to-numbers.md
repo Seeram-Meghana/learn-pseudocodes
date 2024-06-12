@@ -81,7 +81,7 @@ Procedure FibonacciSeries
 
 End Procedure
 
-## Exercise 9
+# Exercise 9
 ## Question: Write a pseudocode to calculate the square root of a number using Newton's method.
 
 ## Solution:
