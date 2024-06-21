@@ -27,10 +27,10 @@ End Procedure
 Procedure CheckEvenOrOdd
     // Your Code Here
 End Procedure
-Exercise 4
-Question: Write a pseudocode to calculate the factorial of a number.
+### Exercise 4
+## Question: Write a pseudocode to calculate the factorial of a number.
 
-Solution:
+## Solution:
 
 Procedure Factorial
     // You Code Here
