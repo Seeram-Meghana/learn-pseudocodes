@@ -19,10 +19,10 @@ End Procedure
 Procedure MaximumOfThreeNumbers
     // Your Code here
 End Procedure
-Exercise 3
-Question: Write a pseudocode to check if a number is even or odd.
+### Exercise 3
+## Question: Write a pseudocode to check if a number is even or odd.
 
-Solution:
+## Solution:
 
 Procedure CheckEvenOrOdd
     // Your Code Here
