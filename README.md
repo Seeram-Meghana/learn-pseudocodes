@@ -42,3 +42,11 @@ End Procedure
 
 Procedure CheckPrime
     Input: num (a positi…
+### Exercise 6
+## Question: Write a pseudocode to
+swap two numbers.
+## Solution:
+Procedure SwapNumbers
+// Your code here
+End Procedure
+
