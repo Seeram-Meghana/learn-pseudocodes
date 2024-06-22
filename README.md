@@ -49,4 +49,9 @@ swap two numbers.
 Procedure SwapNumbers
 // Your code here
 End Procedure
+### Exercise 7
+## Question: Write a pseudocode to calculate the area of a rectangle.
+## Solution:
+Procedure AreaOfRectangle
+Your code here
 
