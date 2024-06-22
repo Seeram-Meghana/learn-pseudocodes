@@ -11,6 +11,7 @@ We need to complete all the Exercises
 Procedure SumOfTwoNumbers
     // Your Code Here
 End Procedure
+
 #### Exercise 2
 ## Question: Write a pseudocode to find the maximum of three numbers.
 
@@ -19,6 +20,7 @@ End Procedure
 Procedure MaximumOfThreeNumbers
     // Your Code here
 End Procedure
+
 ### Exercise 3
 ## Question: Write a pseudocode to check if a number is even or odd.
 
@@ -27,6 +29,7 @@ End Procedure
 Procedure CheckEvenOrOdd
     // Your Code Here
 End Procedure
+
 ### Exercise 4
 ## Question: Write a pseudocode to calculate the factorial of a number.
 
@@ -35,6 +38,7 @@ End Procedure
 Procedure Factorial
     // You Code Here
 End Procedure
+
 ### Exercise 5
 ## Question: Write a pseudocode to check if a number is prime.
 
@@ -42,6 +46,7 @@ End Procedure
 
 Procedure CheckPrime
     Input: num (a positi…
+
 ### Exercise 6
 ## Question: Write a pseudocode to
 swap two numbers.
@@ -49,6 +54,7 @@ swap two numbers.
 Procedure SwapNumbers
 // Your code here
 End Procedure
+
 ### Exercise 7
 ## Question: Write a pseudocode to calculate the area of a rectangle.
 ## Solution:
