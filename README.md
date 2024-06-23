@@ -61,9 +61,9 @@ End Procedure
 Procedure AreaOfRectangle
 Your code here
 
-Exercise 8
-Question: Write a pseudocode to find the Fibonacci series up to a given limit.
-Solution:
+### Exercise 8
+## Question: Write a pseudocode to find the Fibonacci series up to a given limit.
+## Solution:
 Procedure FibonacciSeries
 Input: limit (upper limit for
 Fibonacci series)
